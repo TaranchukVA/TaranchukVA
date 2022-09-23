@@ -11,4 +11,4 @@
 **Conatact with me**
 
 [![linkedin](https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/linkedin.png)](https://www.linkedin.com/in/taranchuk/)
-[![tg](https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/telegram-logo.png =50x50)](https://t.me/itismeVladimir)
+[![Telegram | Vladimir Taranchuk](https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/telegram-logo.png =250x250)](https://t.me/itismeVladimir)
