@@ -10,5 +10,7 @@
 
 **Conatact with me**
 
-[![linkedin](https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/linkedin.png)](https://www.linkedin.com/in/taranchuk/)
-[![tg](https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/telegram-logo.png)](https://t.me/itismeVladimir)
+<img src="drawing.jpg" alt="drawing" width="200"/>
+
+[![linkedin](https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/linkedin.png =50x50)](https://www.linkedin.com/in/taranchuk/)
+[![tg](https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/telegram-logo.png =50x50)](https://t.me/itismeVladimir)
