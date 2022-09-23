@@ -9,5 +9,5 @@
 **Let's exchange our knowledge!**
 
 **Conatact with me**
-<img src="https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/linkedin.png" ref="google.com" alt="Linkedin | Vladimir Taranchuk" width="50" height="50">
-<img src="https://t.me/itismeVladimir" alt="Telegram | Vladimir Taranchuk" width="50" height="50">
+<a href="https://www.linkedin.com/in/taranchuk/"> <img src="https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/linkedin.png" alt="Linkedin | Vladimir Taranchuk" width="50" height="50"></a>
+<a href="https://t.me/itismeVladimir"> <img src="https://t.me/itismeVladimir" alt="Telegram | Vladimir Taranchuk" width="50" height="50"></a>
