@@ -8,6 +8,6 @@
 
 **Let's exchange our knowledge!**
 
-**Conatact with me:**
+<h6>Conatact with me:</h6>
 <a href="https://www.linkedin.com/in/taranchuk/"> <img src="https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/linkedin.png" alt="Linkedin | Vladimir Taranchuk" width="20" height="20"></a>
 <a href="https://t.me/itismeVladimir"> <img src="https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/telegram-logo.png" alt="Telegram | Vladimir Taranchuk" width="20" height="20"></a>
