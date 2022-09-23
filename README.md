@@ -1,3 +1,6 @@
+
+<!--
+
 Welcome to my profile!
 
 ```csharp
@@ -31,7 +34,6 @@ public IActionResult VisitMe(Guest you)
 
 ```
 
-<!--
 **TaranchukVA/TaranchukVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
