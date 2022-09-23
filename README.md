@@ -9,3 +9,6 @@
 **Let's exchange our knowledge!**
 
 **Conatact with me**
+
+[![linkedin](https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/linkedin.png)](https://www.linkedin.com/in/taranchuk/)
+[![tg](https://github.com/TaranchukVA/TaranchukVA/blob/main/logo/telegram-logo.png)](https://t.me/itismeVladimir)
